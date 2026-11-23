@@ -1,0 +1,10 @@
+{
+  "name": "keydown",
+  "version": "2.0.0",
+  "description": "Keydown: the formatting language of Radii Office. Short tags become glossy chips, highlights, tables, math and working applets.",
+  "main": "dist/Keydown.js",
+  "files": ["dist", "svelte", "docs", "LICENSE", "NOTICE.md"],
+  "keywords": ["keydown", "markup", "formatting", "editor", "radii-office"],
+  "license": "Unlicense",
+  "repository": { "type": "git", "url": "git+https://github.com/patientduck394/Keydown.git" }
+}
